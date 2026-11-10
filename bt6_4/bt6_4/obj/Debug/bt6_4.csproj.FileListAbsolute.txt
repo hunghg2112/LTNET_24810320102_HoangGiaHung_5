@@ -1,0 +1,9 @@
+D:\c#_baitap\10_11\bt6_4\bt6_4\bin\Debug\bt6_4.exe.config
+D:\c#_baitap\10_11\bt6_4\bt6_4\bin\Debug\bt6_4.exe
+D:\c#_baitap\10_11\bt6_4\bt6_4\bin\Debug\bt6_4.pdb
+D:\c#_baitap\10_11\bt6_4\bt6_4\obj\Debug\bt6_4.csproj.AssemblyReference.cache
+D:\c#_baitap\10_11\bt6_4\bt6_4\obj\Debug\bt6_4.Properties.Resources.resources
+D:\c#_baitap\10_11\bt6_4\bt6_4\obj\Debug\bt6_4.csproj.GenerateResource.cache
+D:\c#_baitap\10_11\bt6_4\bt6_4\obj\Debug\bt6_4.csproj.CoreCompileInputs.cache
+D:\c#_baitap\10_11\bt6_4\bt6_4\obj\Debug\bt6_4.exe
+D:\c#_baitap\10_11\bt6_4\bt6_4\obj\Debug\bt6_4.pdb
